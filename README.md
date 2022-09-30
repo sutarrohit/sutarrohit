@@ -1,4 +1,4 @@
-![logo](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+![logo](https://raw.githubusercontent.com/sutarrohit/sutarrohit/main/images/logo.jpg)
 <h1 align="center">Hi 👋, I'm Rohit Sutar</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
