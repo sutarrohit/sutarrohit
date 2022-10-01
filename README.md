@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Rohit Sutar</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
+</br>
+
 <img
     align="right"
     alt="coding"
@@ -16,8 +18,9 @@
     />
 </p>
 
-- 💬 Ask me about **Blockchain,Web3,NFT,DeFi,Dapp,DAO,Cryptocurrency** - 📫 How to reach me
-**rohitsutar082@gmail.com** - ⚡ Fun fact **I think I am funny most of the time😊😊😊**
+- 💬 Ask me about **Blockchain,Web3,NFT,DeFi,Dapp,DAO,Cryptocurrency** </br>
+📫 How to reach me **rohitsutar082@gmail.com** </br>
+⚡ Fun fact **I think I am funny most of the time😊😊😊** </br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
