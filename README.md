@@ -102,7 +102,7 @@
         alt="sutarrohit"
     />
 </p> 
-</br>
+
 
 <p>
     &nbsp;<img
