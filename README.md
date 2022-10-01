@@ -18,7 +18,7 @@
     />
 </p>
 
-- 💬 Ask me about **Blockchain,Web3,NFT,DeFi,Dapp,DAO,Cryptocurrency** </br>
+💬 Ask me about **Blockchain,Web3,NFT,DeFi,Dapp,DAO,Cryptocurrency** </br>
 📫 How to reach me **rohitsutar082@gmail.com** </br>
 ⚡ Fun fact **I think I am funny most of the time😊😊😊** </br>
 
