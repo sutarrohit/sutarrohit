@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/sutarrohit/sutarrohit/main/images/logo.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Rohit Sutar</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
@@ -26,7 +26,7 @@
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
             alt="css3"
             width="40"
             height="40"
@@ -34,7 +34,7 @@
     </a>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
             alt="html5"
             width="40"
             height="40"
@@ -46,7 +46,7 @@
         rel="noreferrer"
     >
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            src="https://www.freepnglogos.com/uploads/javascript-png/transparent-logo-javascript-7.png"
             alt="javascript"
             width="40"
             height="40"
@@ -54,7 +54,7 @@
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
             alt="nodejs"
             width="40"
             height="40"
@@ -62,7 +62,7 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            src="https://ionicframework.com/docs/assets/images/react-logo-b64b7471f0ebe5f7a9a281ba2f72b63a.png"
             alt="react"
             width="40"
             height="40"
@@ -91,7 +91,7 @@
     <a href="https://linkedin.com/in/rohit-sutar-89687a1b6/" target="blank"
         ><img
             align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
             alt="rohit-sutar-89687a1b6/"
             height="30"
             width="40"
