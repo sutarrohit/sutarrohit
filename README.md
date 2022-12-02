@@ -62,7 +62,7 @@
     </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img
-            src="https://ionicframework.com/docs/assets/images/react-logo-b64b7471f0ebe5f7a9a281ba2f72b63a.png"
+            src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
             alt="react"
             width="40"
             height="40"
