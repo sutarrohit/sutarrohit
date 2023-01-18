@@ -98,22 +98,6 @@
     /></a>
 </p>
 
-<p>
-    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sutarrohit&show_icons=true&locale=en&layout=compact"
-        alt="sutarrohit"
-    />
-</p> 
-
-
-<p>
-    &nbsp;<img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=sutarrohit&show_icons=true&locale=en"
-        alt="sutarrohit"
-    />
-</p>
 
 <p>
     <img
