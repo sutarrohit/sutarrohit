@@ -1,4 +1,4 @@
-![logo]()
+<!-- ![logo]() -->
 <h1 align="center">Hi 👋, I'm Rohit Sutar</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
 
