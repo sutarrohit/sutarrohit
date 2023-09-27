@@ -51,6 +51,18 @@
             height="40"
         />
     </a>
+     <a
+        href="https://www.typescriptlang.org/"
+        target="_blank"
+        rel="noreferrer"
+    >
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
+            alt="javascript"
+            width="40"
+            height="40"
+        />
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img
             src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
@@ -67,7 +79,80 @@
             height="40"
         />
     </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://expressjs.com/en/starter/static-files.html" target="_blank" rel="noreferrer">
+        <img
+            src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+</br>
+     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img
+            src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
+        <img
+            src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+      <a href="https://www.prisma.io/">
+        <img
+            src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+     <a href="https://www.docker.com/">
+        <img
+            src="https://bunnyacademy.b-cdn.net/what-is-docker.png"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+    <a href="https://kubernetes.io/">
+        <img
+            src="https://www.zdnet.com/a/img/2015/07/21/bb0de0fc-5d9c-47c3-96dd-42ed50858fdb/kubernetes-logo.png"
+            alt="react"
+            width="40"
+            height="40"
+        />
+    </a>
+       <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer">
         <img
             src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg"
             alt="Solidity"
@@ -83,6 +168,9 @@
             height="40"
         />
     </a>
+
+    
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
