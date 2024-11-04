@@ -1,6 +1,6 @@
 <!-- ![logo]() -->
 <h1 align="center">Hi 👋, I'm Rohit Sutar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h4 align="center">I'm a passionate Full Stack Developer with extensive experience in designing and building dynamic, interactive web applications. I specialize in crafting efficient, scalable, and user-friendly solutions that deliver engaging user experiences.</h4>
 
 </br>
 
@@ -19,185 +19,81 @@
 </p>
 
 💬 Ask me about **Full Stack development, DevOps, Blockchain** </br>
-📫 How to reach me **rohitsutar082@gmail.com** </br>
+📫 How to reach me **rohitsutar082@gmail.com** </br> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png"
-            alt="css3"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"
-            alt="html5"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://www.freepnglogos.com/uploads/javascript-png/transparent-logo-javascript-7.png"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-     <a
-        href="https://www.typescriptlang.org/"
-        target="_blank"
-        rel="noreferrer"
-    >
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png"
-            alt="javascript"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png"
-            alt="nodejs"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://expressjs.com/en/starter/static-files.html" target="_blank" rel="noreferrer">
-        <img
-            src="https://www.guayerd.com/wp-content/uploads//2021/04/expressjs-logo.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://miro.medium.com/v2/resize:fit:1024/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/240px-Postgresql_elephant.svg.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
+### Languages
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-%23404d59.svg?style=for-the-badge&logo=nextdotjs&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=trpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+
+
+### Technologies & Tools
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-239120?style=for-the-badge&logo=github-actions&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![RESTful API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-0078D4?style=for-the-badge&logo=Zod&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge&logo=ethersdotjs&logoColor=white)
+
+
+
+
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+  <a href="https://linkedin.com/in/rohit-sutar-89687a1b6/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-sutar-89687a1b6"/>
+  </a>
+  <a href="https://twitter.com/imSrohitS" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="imSrohitS"/>
+  </a> 
+</p>
 </br>
-     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-            src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/7443/course_7443_image.jpg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-      <a href="https://www.prisma.io/">
-        <img
-            src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-     <a href="https://www.docker.com/">
-        <img
-            src="https://bunnyacademy.b-cdn.net/what-is-docker.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://kubernetes.io/">
-        <img
-            src="https://www.zdnet.com/a/img/2015/07/21/bb0de0fc-5d9c-47c3-96dd-42ed50858fdb/kubernetes-logo.png"
-            alt="react"
-            width="40"
-            height="40"
-        />
-    </a>
-       <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer">
-        <img
-            src="https://smartcontractprogrammer.com/static/media/logo.cae6ce4a.svg"
-            alt="Solidity"
-            width="40"
-            height="40"
-        />
-    </a>
-    <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
-        <img
-            src="https://hardhat.org/_next/static/media/she-head.a8330420.svg"
-            alt="Solidity"
-            width="40"
-            height="40"
-        />
-    </a>
 
-    
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=dark&hide_border=false) 
 
-</p>
+<p></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/rohit-sutar-89687a1b6/" target="blank"
-        ><img
-            align="center"
-            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-            alt="rohit-sutar-89687a1b6/"
-            height="30"
-            width="40"
-    /></a>
-     <a href="https://twitter.com/imSrohitS" target="blank"
-        ><img
-            align="center"
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/2491px-Logo_of_Twitter.svg.png"
-            alt="rohit-sutar-89687a1b6/"
-            height="30"
-            width="40"
-    /></a>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
-<p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&"
-        alt="sutarrohit"
-    />
-</p>
+<!--
+![](https://github-readme-stats.vercel.app/api?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarrohit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
+-->
+
+
+<!--
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sutarrohit&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+-->
