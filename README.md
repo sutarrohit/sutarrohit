@@ -69,14 +69,14 @@
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-  <a href="https://linkedin.com/in/rohit-sutar-89687a1b6/" target="blank">
+  <a href="https://linkedin.com/in/rohit-sutar-89687a1b6/"  target="_blank"  rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohit-sutar-89687a1b6"/>
   </a>
-  <a href="https://twitter.com/imSrohitS" target="blank">
+  <a href="https://twitter.com/imSrohitS"  target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="imSrohitS"/>
   </a> 
 </p>
-</br>
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=dark&hide_border=false) 
