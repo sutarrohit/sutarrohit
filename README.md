@@ -82,9 +82,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=dark&hide_border=false) 
 
 <p></p>
-<!--
+
 ![](https://github-readme-stats.vercel.app/api?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
--->
+
 
 
 <!--
