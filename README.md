@@ -67,9 +67,8 @@
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-F87060?style=for-the-badge&logo=hono&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
-<!--
 ![LLM](https://img.shields.io/badge/LLM-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
--->
+
 
 
 
