@@ -87,16 +87,46 @@
 </p>
 
 
+
+# :bar_chart: GitHub Stats:
+<table align='left'>
+  <tr>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=neon-palenight&hide_border=true&card_width=705"></td>
+  </tr>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutarrohit&theme=2077"></td>
+ </tr>
+</table>
+
+
+<!--
+
+# :bar_chart: GitHub Stats:
+<table align='center'>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=neon-palenight&hide_border=true&card_width=705">
+     </td>
+   </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sutarrohit&theme=2077">
+     </td>
+   </tr>
+</table><table align='center'>
+  <tr>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sutarrohit&theme=aura_dark"></td>
+    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sutarrohit&theme=aura_dark&exclude=html,scss,mathematica,js,CSS"></td>
+  </tr>
+</table>
+
+
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sutarrohit&theme=dark&hide_border=false) 
 
 ![](https://github-readme-stats.vercel.app/api?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarrohit&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sutarrohit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
 
