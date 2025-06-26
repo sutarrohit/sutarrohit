@@ -19,7 +19,7 @@
 </p>
 
 💬 Ask me about **Full Stack development, DevOps, Blockchain** </br>
-📫 How to reach me **rohitsutar082@gmail.com** </br> 
+📫 How to reach me **rssutardev@gmail.com** </br> 
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
