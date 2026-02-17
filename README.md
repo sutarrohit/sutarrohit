@@ -18,7 +18,7 @@
     />
 </p>
 
-💬 Ask me about **Full Stack development, DevOps, Blockchain** </br>
+💬 Ask me about **Full Stack development, AI, Blockchain, DevOps** </br>
 📫 How to reach me **rssutardev@gmail.com** </br> 
 
 ### Languages
@@ -66,6 +66,9 @@
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-F87060?style=for-the-badge&logo=hono&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
+
 
 <!--
 ![AI](https://img.shields.io/badge/AI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
